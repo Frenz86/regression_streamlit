@@ -1,6 +1,7 @@
 streamlit==0.60.0
 pandas==1.0.3
-nummpy
+maths
+numpy
 scikit_learn
 altair
 dataclasses
