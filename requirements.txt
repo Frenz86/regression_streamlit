@@ -1,5 +1,5 @@
 streamlit==0.60.0
-math
+maths
 pandas==1.0.3
 nummpy
 scikit_learn
