@@ -96,6 +96,6 @@ alt_err = (
 
 chart = (alt_source + alt_reg) & alt_err
 
-st.altair_chart(chart, width=-1)
+st.altair_chart(chart)
 rmse_text = st.text(f"Current RMSE : {rmse}")
 #min_rmse_text = st.text(f"Minimum RMSE : {state.min_rmse}")
